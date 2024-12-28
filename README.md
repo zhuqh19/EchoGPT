@@ -1,6 +1,4 @@
-<img src="assets/Robot.png" alt="img" style="zoom:10%;" />
-
-# EchoGPT: An Interactive Cardiac Function Assessment Large Language Model for Echocardiogram Videos
+# <img src="assets/Robot.png" alt="img" style="zoom:10%;" />EchoGPT: An Interactive Cardiac Function Assessment Large Language Model for Echocardiogram Videos
 
 
 
