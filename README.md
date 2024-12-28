@@ -37,5 +37,4 @@ If you find EchoGPT helpful in your research, pleas cite using this BibTeX:
 - [EchoCLIP](https://github.com/echonet/echo_CLIP)
 - [Llava-Video](https://huggingface.co/lmms-lab/LLaVA-Video-7B-Qwen2)
 - [Qwen2-VL](https://huggingface.co/spaces/Qwen/Qwen2-VL)
-- [LongVU](https://huggingface.co/Vision-CAIR/LongVU_Qwen2_7B)
 - [Video-LLaMa2](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2.1-7B-16F)
