@@ -16,6 +16,11 @@ You can try our model at .(Our model is deployed on our laboratory server and ca
 
 ![img](assets/Ablation-and-Comparison.png)
 
+## Next Stage To-do-list
+
+- [ ] Local deployment of EchoGPT on mobile devices
+- [ ] Optimize EchoGPT's conversational capabilities using RAG
+
 ## Citation
 
 If you find EchoGPT helpful in your research, pleas cite using this BibTeX:
