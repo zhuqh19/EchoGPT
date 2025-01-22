@@ -1,4 +1,4 @@
-# EchoGPT: An Interactive Cardiac Function Assessment Large Language Model for Echocardiogram Videos
+# EchoGPT: An Interactive Cardiac Function Assessment Model for Echocardiogram Videos
 
 
 
