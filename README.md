@@ -14,7 +14,7 @@ You can try our model at .(Our model is deployed on our laboratory server and ca
 
 ## Ablation and Comparison
 
-![img](assets/Ablation-and-Comparison.png)
+![img](assets/Ablation and Comparison.png)
 
 ## Next Stage To-do-list
 
