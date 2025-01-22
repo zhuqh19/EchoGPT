@@ -8,13 +8,16 @@
 
 You can try our model at .(Our model is deployed on our laboratory server and cannot be deployed for a long time, so if the link is invalidated, please understand. And Our complete source code will be released after the next stage is completed.)
 
+## Challenge and Our Solution
+![img](assets/challenge-and-solution.png)
+
 ## Framework of EchoGPT
 
 ![img](assets/framework.png)
 
 ## Ablation and Comparison
 
-![img](assets/Ablation and Comparison.png)
+![img](assets/Ablation-and-Comparison.png)
 
 ## Next Stage To-do-list
 
