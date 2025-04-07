@@ -6,7 +6,7 @@
 
 ![img](Demo/EchoGPT_demo.gif)
 
-You can try our model at http://210.30.97.185:7860/.(Our model is deployed on our laboratory server and cannot be deployed for a long time, so if the link is invalidated, please understand. And Our complete source code will be released after our paper is accepted.)
+You can try our model at http://210.30.97.185:7860. (Our model is deployed on our laboratory server and cannot be deployed for a long time, so if the link is invalidated, please understand. And Our complete source code will be released after our paper is accepted.)
 
 ## Challenge and Our Solution
 ![img](assets/challenge-and-our-solution.png)
