@@ -8,6 +8,8 @@
 
 You can try our model at http://210.30.97.185:7860. (Our model is deployed on our laboratory server and cannot be deployed for a long time, so if the link is invalidated, please understand.)
 
+因为目前有进行商业合作的倾向，所以完整源码暂未进行公开，但是大家可以重点关注Baseline--MiniGPT-Video，它的源码是非常完整的，可以很方便的进行微调。如果大家有对于本论文的疑问或者想要交流医工交叉的想法可以在issue提出，或者联系我本人邮箱--zhuqh19@gmail.com
+
 ## Challenge and Our Solution
 ![img](assets/challenge-and-our-solution.png)
 
