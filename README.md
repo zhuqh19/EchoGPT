@@ -23,7 +23,7 @@ You can try our model at http://210.30.97.185:7860. (Our model is deployed on ou
 
 ## Next Stage To-do-list
 
-- [ ] Local deployment of EchoGPT on mobile devices
+- [√] Local deployment of EchoGPT on mobile devices
 - [ ] Optimize EchoGPT's conversational capabilities using RAG
 
 ## Citation
