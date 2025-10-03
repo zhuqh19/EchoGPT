@@ -31,6 +31,20 @@ You can try our model at http://210.30.97.185:7860. (Our model is deployed on ou
 If you find EchoGPT helpful in your research, pleas cite using this BibTeX:
 
 ```
+@inproceedings{ijcai2025p874,
+  title     = {EchoGPT: An Interactive Cardiac Function Assessment Model for  Echocardiogram Videos},
+  author    = {Xu, Bo and Zhu, Quanhao and Zhang, Qingchen and Wang, Mengmeng and Zhao, Liang and Lin, Hongfei and Ren, Jing and Xia, Feng},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {7858--7866},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/874},
+  url       = {https://doi.org/10.24963/ijcai.2025/874},
+}
 
 ```
 
